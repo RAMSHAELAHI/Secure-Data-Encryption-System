@@ -2,7 +2,6 @@ import streamlit as st
 import hashlib
 import json
 import time
-from cryptography.fernet import Fernet
 import base64
 
 # Initialize session state variables if they don't exist
